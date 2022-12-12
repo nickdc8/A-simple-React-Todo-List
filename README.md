@@ -1,6 +1,6 @@
-# Todo List
+# A Simple React Todo List
 
-This is a simple todo list app built using React. It allows users to add, mark as complete, undo, and delete todos.
+This is a simple todo list app built using React. It allows users to add, mark as complete, undo, and delete todos. Todos will move to
 
 ## Prerequisites
 
